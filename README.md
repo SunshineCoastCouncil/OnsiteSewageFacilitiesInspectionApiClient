@@ -1,0 +1,2 @@
+# OSF Inspections Client
+This project includes a .netstandard library for submitting Onsite Sewage Facilities (OSF) Inspections to Council's API as well as a sample console application using the library.
